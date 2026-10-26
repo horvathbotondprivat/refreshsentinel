@@ -1,0 +1,8 @@
+/verification/
+/release/
+/dist/
+/*-Windows.zip
+.vs/
+*.tmp
+obj/
+bin/
