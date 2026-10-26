@@ -65,6 +65,14 @@ A program a `dist` mappába, a ZIP-csomag a projekt gyökerébe kerül. Aktív W
 
 A tesztek szimulált kijelzőkkel ellenőrzik a visszaállítást és a hibakezelést. A valódi monitorokat csak lekérdezik; a `CDS_TEST` kizárólag a jelenlegi mód elfogadhatóságát vizsgálja, módváltás nélkül. Az eredmény a `verification` mappába kerül. Az éles automatikus visszaállítás kézi kipróbálása: mentsd a kívánt Hz-et, állíts másik támogatott értéket a Windowsban, és várd meg a beállított időközt. Ezt teljes képernyős játék nélkül végezd.
 
+## Ikonok és megjelenési terv forráskódja
+
+A [design](design/) mappa tartalmazza a Windows 11-es megjelenési javaslatot, az eredeti SVG ikonokat, az elkészített ICO-változatokat és a színmintákat. Az ikonokat és az előnézetet készítő program forrása a [Build-Preview.ps1](design/Build-Preview.ps1); Windows PowerShellből újrafuttatható:
+
+`powershell -NoProfile -ExecutionPolicy Bypass -File .\design\Build-Preview.ps1`
+
+A részletes döntések a [design útmutatóban](design/DESIGN.hu.md), a pontos ikonforrások a [forrásjegyzékben](design/sources.json) találhatók. A Fluent ikonok MIT-licencének másolata is a mappában szerepel. A képi anyag megjelenési terv; a kiadott 1.0.0 alkalmazás felülete továbbra is a saját kiadási forrásából épül.
+
 Technikai források (Microsoft):
 
 - https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-enumdisplaysettingsexw

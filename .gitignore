@@ -2,6 +2,8 @@
 /release/
 /dist/
 /*-Windows.zip
+/*-Fluent-Design.zip
+/design/png/
 .vs/
 *.tmp
 obj/

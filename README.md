@@ -50,3 +50,17 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\build.ps1 -SkipLiveChecks
 The simulated checks cover mode filtering, identity matching, reconnects, unavailable modes, pause behavior, persistence, and retries. Live checks enumerate monitors and use `CDS_TEST` to validate their **existing** modes; they do not change refresh rates. Actual restoration is tested with simulated displays. Local diagnostics and screenshots under `verification/` are excluded from version control and distribution.
 
 The executable is not digitally signed.
+
+## Design assets and source
+
+The [design directory](design/) contains the proposed Windows 11 Fluent styling, 18 original SVG assets, five ready-to-use ICO variants, a theme proposal, and the source used to generate the preview and multi-resolution icons. See the [Hungarian design guide](design/DESIGN.hu.md) and the [pinned source catalog](design/sources.json).
+
+Regenerate the icons and preview with Windows PowerShell:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\design\Build-Preview.ps1
+```
+
+Generated PNG variants are excluded from version control. The main preview and ICO files are included for convenient inspection and use. Microsoft Fluent UI System Icons are distributed with their [MIT license notice](design/LICENSE-Fluent-Icons.txt).
+
+![Proposed Windows 11 icons and styling](design/preview.png)

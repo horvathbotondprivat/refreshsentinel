@@ -1,0 +1,115 @@
+{
+  "source": "https://github.com/microsoft/fluentui-system-icons",
+  "commit": "82ecf7cbdb43684403c7125efa160be04a33dca5",
+  "license": "MIT",
+  "files": [
+    {
+      "file": "fluent-icons/ic_fluent_desktop_sync_20_regular.svg",
+      "name": "Desktop Sync",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Sync/SVG/ic_fluent_desktop_sync_20_regular.svg",
+      "blob_sha": "4caaee34b47dadab33461d129284369aa1c96c58"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_sync_24_regular.svg",
+      "name": "Desktop Sync",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Sync/SVG/ic_fluent_desktop_sync_24_regular.svg",
+      "blob_sha": "92f57b25ecbf4c4311095c25d7c9cff89b29a4b5"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_sync_24_filled.svg",
+      "name": "Desktop Sync",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Sync/SVG/ic_fluent_desktop_sync_24_filled.svg",
+      "blob_sha": "4b9734b8e47bd1a034c74b0ee574e9d68cf5f171"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_checkmark_20_regular.svg",
+      "name": "Desktop Checkmark",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Checkmark/SVG/ic_fluent_desktop_checkmark_20_regular.svg",
+      "blob_sha": "a9e5839097ec7dfc918b9af77e09a6f771e8a293"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_checkmark_24_regular.svg",
+      "name": "Desktop Checkmark",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Checkmark/SVG/ic_fluent_desktop_checkmark_24_regular.svg",
+      "blob_sha": "99f2b14aff039e1f091c31f7385abe4661efbb1d"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_checkmark_24_filled.svg",
+      "name": "Desktop Checkmark",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Checkmark/SVG/ic_fluent_desktop_checkmark_24_filled.svg",
+      "blob_sha": "4d0d7938b6bdda3c168486c361e90fba96ca00e9"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_pulse_20_regular.svg",
+      "name": "Desktop Pulse",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Pulse/SVG/ic_fluent_desktop_pulse_20_regular.svg",
+      "blob_sha": "88fbc8e2843a1836fde40103354d41549763b962"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_pulse_24_regular.svg",
+      "name": "Desktop Pulse",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Pulse/SVG/ic_fluent_desktop_pulse_24_regular.svg",
+      "blob_sha": "4ba3746d05c4b7354de083f5baa139d9ab4b3e15"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_desktop_pulse_24_filled.svg",
+      "name": "Desktop Pulse",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Desktop%20Pulse/SVG/ic_fluent_desktop_pulse_24_filled.svg",
+      "blob_sha": "be9c9c78dc07f14fc81092496bcea1e247704131"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_save_20_regular.svg",
+      "name": "Save",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Save/SVG/ic_fluent_save_20_regular.svg",
+      "blob_sha": "4df2b9d636fdaa2635ebcb825acdde439043442c"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_arrow_sync_20_regular.svg",
+      "name": "Arrow Sync",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Arrow%20Sync/SVG/ic_fluent_arrow_sync_20_regular.svg",
+      "blob_sha": "bf3ce0caa0888caf1e513128fa03c5d501dd86b1"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_settings_20_regular.svg",
+      "name": "Settings",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Settings/SVG/ic_fluent_settings_20_regular.svg",
+      "blob_sha": "54752c20fe6c380b1f2b5bcbef8738295e2cc1d0"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_pause_20_regular.svg",
+      "name": "Pause",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Pause/SVG/ic_fluent_pause_20_regular.svg",
+      "blob_sha": "b582441fdf815174bad7478ad15708897ecf25c0"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_play_20_regular.svg",
+      "name": "Play",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Play/SVG/ic_fluent_play_20_regular.svg",
+      "blob_sha": "05a0ec3f98ee72567238bfeee1ffa980553d8b0b"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_document_text_20_regular.svg",
+      "name": "Document Text",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Document%20Text/SVG/ic_fluent_document_text_20_regular.svg",
+      "blob_sha": "0c34ad10073325e5941ee7bf2f8cc4850dd4c3d0"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_checkmark_circle_20_regular.svg",
+      "name": "Checkmark Circle",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Checkmark%20Circle/SVG/ic_fluent_checkmark_circle_20_regular.svg",
+      "blob_sha": "37e387a158a8e6810db8293331682ebd54579594"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_warning_20_regular.svg",
+      "name": "Warning",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Warning/SVG/ic_fluent_warning_20_regular.svg",
+      "blob_sha": "538dd02195f4c62ac1dbf3c7ced44fe64e08beaf"
+    },
+    {
+      "file": "fluent-icons/ic_fluent_clock_20_regular.svg",
+      "name": "Clock",
+      "source": "https://github.com/microsoft/fluentui-system-icons/blob/82ecf7cbdb43684403c7125efa160be04a33dca5/assets/Clock/SVG/ic_fluent_clock_20_regular.svg",
+      "blob_sha": "3fb6131b30ab7aed057c2674476abc3316e9a590"
+    }
+  ]
+}
